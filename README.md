@@ -1,4 +1,9 @@
-# System-Manager-WIP
+<div align="center">
+  
+# (Drafty's) System Manager
+
+<div align="left">
+  
 **(Drafty's) System Manager** is a comprehensive All-In-One system management tool built using GTK4, designed specifically for Debian-based Linux distributions. Its primary purpose is to serve as a centralized, graphical interface for managing both basic and advanced system tasks, effectively consolidating functionalities that would normally require multiple, separate tools or terminal commands. By providing this unification, the app aims to simplify the Linux experience, especially for users who are new to Linux and transitioning from Windows or macOS, where system management tasks are typically handled in a more centralized or visually guided manner.
 
 The app combines a variety of features, covering system monitoring, resource management, package installation and updates, service control, system cleaning, and server management, among other functionalities. The GUI is carefully designed with accessibility and clarity in mind, offering intuitive navigation, clear visual feedback, and logically organized sections so that users can easily find and perform tasks without needing to memorize complex commands or navigate scattered settings.
