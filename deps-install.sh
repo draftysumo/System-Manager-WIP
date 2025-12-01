@@ -1,0 +1,15 @@
+sudo apt update && sudo apt install -y \
+    python3-gi \
+    python3-gi-cairo \
+    gir1.2-gtk-4.0 \
+    python3-psutil \
+    policykit-1 \
+    pkexec \
+    flatpak \
+    baobab \
+    gnome-system-monitor \
+    procps \
+    pgrep
+    adwaita-icon-theme \
+    gnome-icon-theme \
+    humanity-icon-theme
